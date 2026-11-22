@@ -1,0 +1,10 @@
+# 二进制文件：不做文本 diff / 行尾转换，按原样存储
+*.exe   binary
+*.dll   binary
+*.pyd   binary
+*.so    binary
+*.zip   binary
+*.png   binary
+*.ico   binary
+*.qm    binary
+*.pem   text eol=lf
